@@ -1,4 +1,4 @@
-# Analyzing Man Fashions in E-commerce Shopee Indonesia (Data Scraping)
+# Analyzing E-commerce Men's Fashion (Data Scraping)
 ## Overview
 This projects idea based on customers and seller response about  regulatory delivering system change by Shopee Indonesia in their e-commerce system who encourage some of the user to swicth the platform. [here is one of the viral threads in Twitter](https://twitter.com/ariefghozaly/status/1378040256348319744). the main idea is to get a bigger picture of man's fashion market in shopee Indonesia and compare it with another e-commerce platform to see the market opprtunity within the same category. I am scraped over 2000 product postings in sales man's fashion from [https://shopee.co.id/Pakaian-Pria-cat.33?page=0&sortBy=sales](https://shopee.co.id/Pakaian-Pria-cat.33?page=0&sortBy=sales) and answering some questions like what is the suitable sub-category market for newcomers in Shopee Indonesia?, what is the most effective store? etc.
 
